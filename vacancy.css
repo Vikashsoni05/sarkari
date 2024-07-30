@@ -209,7 +209,7 @@ body {
 }
 
 .background{
-    background:url(vacancyimage/98.jpg);
+    background:rgb(31, 240, 83);
 
     background-image: darken;
 }
@@ -228,6 +228,8 @@ body {
 }
 .secondHalf{
     width: 100x;
+  
+    color: red;
 
 }
 .secondHalf img{
@@ -291,7 +293,7 @@ body {
     margin-top: 19px;
 }
 .contact{
-background-image: url(image/94.jpg);
+
 height: 60vh;
 }
 .text-center{
